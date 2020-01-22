@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nldevopsclub20190207/DevOps%20For%20Test/_apis/build/status/Rain00001.Microsoftpipeline?branchName=master)](https://dev.azure.com/nldevopsclub20190207/DevOps%20For%20Test/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
